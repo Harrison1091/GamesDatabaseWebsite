@@ -1,0 +1,12 @@
+C:\Users\Sean\source\repos\Games.WebApi\Games.DB\bin\Debug\netcoreapp3.1\Games.DB.deps.json
+C:\Users\Sean\source\repos\Games.WebApi\Games.DB\bin\Debug\netcoreapp3.1\Games.DB.runtimeconfig.json
+C:\Users\Sean\source\repos\Games.WebApi\Games.DB\bin\Debug\netcoreapp3.1\Games.DB.runtimeconfig.dev.json
+C:\Users\Sean\source\repos\Games.WebApi\Games.DB\bin\Debug\netcoreapp3.1\Games.DB.dll
+C:\Users\Sean\source\repos\Games.WebApi\Games.DB\bin\Debug\netcoreapp3.1\Games.DB.pdb
+C:\Users\Sean\source\repos\Games.WebApi\Games.DB\obj\Debug\netcoreapp3.1\Games.DB.csprojAssemblyReference.cache
+C:\Users\Sean\source\repos\Games.WebApi\Games.DB\obj\Debug\netcoreapp3.1\Games.DB.AssemblyInfoInputs.cache
+C:\Users\Sean\source\repos\Games.WebApi\Games.DB\obj\Debug\netcoreapp3.1\Games.DB.AssemblyInfo.cs
+C:\Users\Sean\source\repos\Games.WebApi\Games.DB\obj\Debug\netcoreapp3.1\Games.DB.csproj.CoreCompileInputs.cache
+C:\Users\Sean\source\repos\Games.WebApi\Games.DB\obj\Debug\netcoreapp3.1\Games.DB.dll
+C:\Users\Sean\source\repos\Games.WebApi\Games.DB\obj\Debug\netcoreapp3.1\Games.DB.pdb
+C:\Users\Sean\source\repos\Games.WebApi\Games.DB\obj\Debug\netcoreapp3.1\Games.DB.genruntimeconfig.cache

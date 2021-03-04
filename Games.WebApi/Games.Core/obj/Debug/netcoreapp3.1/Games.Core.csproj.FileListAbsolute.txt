@@ -1,0 +1,12 @@
+C:\Users\Sean\source\repos\Games.WebApi\Games.Core\bin\Debug\netcoreapp3.1\Games.Core.deps.json
+C:\Users\Sean\source\repos\Games.WebApi\Games.Core\bin\Debug\netcoreapp3.1\Games.Core.dll
+C:\Users\Sean\source\repos\Games.WebApi\Games.Core\bin\Debug\netcoreapp3.1\Games.Core.pdb
+C:\Users\Sean\source\repos\Games.WebApi\Games.Core\bin\Debug\netcoreapp3.1\Games.DB.dll
+C:\Users\Sean\source\repos\Games.WebApi\Games.Core\bin\Debug\netcoreapp3.1\Games.DB.pdb
+C:\Users\Sean\source\repos\Games.WebApi\Games.Core\obj\Debug\netcoreapp3.1\Games.Core.csprojAssemblyReference.cache
+C:\Users\Sean\source\repos\Games.WebApi\Games.Core\obj\Debug\netcoreapp3.1\Games.Core.AssemblyInfoInputs.cache
+C:\Users\Sean\source\repos\Games.WebApi\Games.Core\obj\Debug\netcoreapp3.1\Games.Core.AssemblyInfo.cs
+C:\Users\Sean\source\repos\Games.WebApi\Games.Core\obj\Debug\netcoreapp3.1\Games.Core.csproj.CoreCompileInputs.cache
+C:\Users\Sean\source\repos\Games.WebApi\Games.Core\obj\Debug\netcoreapp3.1\Games.Core.csproj.CopyComplete
+C:\Users\Sean\source\repos\Games.WebApi\Games.Core\obj\Debug\netcoreapp3.1\Games.Core.dll
+C:\Users\Sean\source\repos\Games.WebApi\Games.Core\obj\Debug\netcoreapp3.1\Games.Core.pdb
